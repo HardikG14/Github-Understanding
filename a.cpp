@@ -72,7 +72,8 @@ void solve()
 	int a;
 	int b;
 	cin>>a>>b;
-	cout<<a+b<<endl;
+    int sum = a+b;
+	cout<<sum<<endl;
 }
 int main()
 {
